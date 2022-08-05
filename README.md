@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfiqo
-- 👀 I’m interested in laravel and ruby on rails
-- 🌱 I’m currently learning ruby on rails
+- 👀 I’m interested in laravel, ruby on rails, and go
+- 🌱 I’m currently go
 
 <!---
 alfiqo/alfiqo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
